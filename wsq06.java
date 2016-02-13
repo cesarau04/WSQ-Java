@@ -1,4 +1,4 @@
-//WSQ06 Cesar Augusto Garcia Perez  A01153737
+//WSQ06 Cesar Augusto Garcia Perez  	A01153737
 //WSQ06 Cesar Augusto Cortez 		A01226862
 //WSQ06 Jose Andres Choza Castro	A01113487
 class GCD{
